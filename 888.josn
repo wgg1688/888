@@ -98,7 +98,7 @@
 "parses": [
  {"name":"🌎聚合","type":3,"url":"Demo"},
  {"name":"🌐Web","type":3,"url":"Web"},
- {"name":"🌐不良0","type": 1, "url":"https://rdfplayer.mrgaocloud.com/player/?url=","ext": { "flag": [ ], "header": { "User-Agent":"","referer":"https://rdfplayer.mrgaocloud.com/"} } },
+ {"name":"🌐不良0","type": 0, "url":"https://rdfplayer.mrgaocloud.com/player/?url=","ext": { "flag": [ ], "header": { "User-Agent":"","referer":"https://rdfplayer.mrgaocloud.com/"} } },
  {"name":"🌐不良1","type": 0, "url":"https://jx.2s0.cn/player/?url=","ext": { "flag": [ "qq","qiyi","youku","sohu","letv","mgtv","NBY","bilibili","1905" ], "header": { "User-Agent":"okhttp/3.14.9" } } },
  {"name":"🌐不良2","type": 0, "url":"https://jx.789jiexi.com/?url=","ext": { "flag": [ "qq","qiyi","youku","sohu","letv","mgtv","NBY","bilibili","1905" ], "header": { "User-Agent":"okhttp/3.14.9" } } },
  {"name":"🌐不良3","type": 0, "url":"https://www.8090g.cn/?url=","ext": { "flag": [ "qq","qiyi","youku","sohu","letv","mgtv","NBY","bilibili","1905" ], "header": { "User-Agent":"okhttp/3.14.9" } } },
